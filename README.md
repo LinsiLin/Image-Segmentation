@@ -3,14 +3,17 @@
 
 Data:
 • 3 Color images
-– Baboon, Lena, Pepper
-– A set of pixels with a 3D 8bit (0-255) RGB feature
-– Feature space is a 3D histogram of RBG colors (Color space) or 5D RBG-Space feature
+– Baboon, Lena, Pepper<br>
+– A set of pixels with a 3D 8bit (0-255) RGB feature<br>
+– Feature space is a 3D histogram of RBG colors (Color space) or 5D RBG-Space feature<br>
 
-• 6 Grayscale images
-– Baboon, Lena, Pepper, Barbara, Cameraman, Goldhill
-– A set of pixels with a 1D 8bit (0-255) feature
-– Feature space is a 1D histogram of intensity values or 3D intensity-Space feature
+• 6 Grayscale images<br>
+– Baboon, Lena, Pepper, Barbara, Cameraman, Goldhill<br>
+– A set of pixels with a 1D 8bit (0-255) feature<br>
+– Feature space is a 1D histogram of intensity values or 3D intensity-Space feature<br>
+
+![alt text](https://github.com/LinsiLin/Image-Segmentation/blob/main/result.jpg)
+
 
 Reference:
 D. Comaniciu, P. Meer
