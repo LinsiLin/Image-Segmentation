@@ -12,13 +12,13 @@ Data:
 – A set of pixels with a 1D 8bit (0-255) feature<br>
 – Feature space is a 1D histogram of intensity values or 3D intensity-Space feature<br>
 
-![alt text](https://github.com/LinsiLin/Image-Segmentation/blob/main/result.jpg)
-![alt text](https://github.com/LinsiLin/Image-Segmentation/blob/main/result2.jpg)
-![alt text](https://github.com/LinsiLin/Image-Segmentation/blob/main/result3.jpg)
+![alt text](https://github.com/LinsiLin/Image-Segmentation/blob/main/result1.png)
+![alt text](https://github.com/LinsiLin/Image-Segmentation/blob/main/result2.png)
+![alt text](https://github.com/LinsiLin/Image-Segmentation/blob/main/result3.png)
 
 The choice of bandwidth influences the convergence rate and the number of clusters.<br>
 
-As we can see from the output pictures, a very small bandwidth might result in too many clusters, while a large bandwidth might result in incorrect clustering and might merge distinct clusters. As the bandwidth increases (if not too extreme), the high intensity places such as eyes, nose in the picture become more prominent.
+As we can see from the output pictures, a very small bandwidth might result in too many clusters, while a large bandwidth might result in incorrect clustering and might merge distinct clusters. As the bandwidth increases, the high intensity places such as eyes, nose in the picture become more prominent.
 
 
 Reference:
