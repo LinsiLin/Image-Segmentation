@@ -12,7 +12,7 @@ Data:<br>
 – A set of pixels with a 1D 8bit (0-255) feature<br>
 – Feature space is a 1D histogram of intensity values or 3D intensity-Space feature<br>
 
-** Displaying Result:**
+**Displaying Result:**
 ![alt text](https://github.com/LinsiLin/Image-Segmentation/blob/main/result1.png)
 ![alt text](https://github.com/LinsiLin/Image-Segmentation/blob/main/result2.png)
 ![alt text](https://github.com/LinsiLin/Image-Segmentation/blob/main/result3.png)
