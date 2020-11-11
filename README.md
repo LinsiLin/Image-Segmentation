@@ -1,5 +1,5 @@
 # Image-Segmentation using Mean Shift Algorithm
-• Image Segmentation means labeling pixels according to the image intensity such that pixels with similar intensity have same label.
+### Image Segmentation means labeling pixels according to the image intensity such that pixels with similar intensity have same label.
 
 Data:
 • 3 Color images
@@ -12,6 +12,7 @@ Data:
 – A set of pixels with a 1D 8bit (0-255) feature<br>
 – Feature space is a 1D histogram of intensity values or 3D intensity-Space feature<br>
 
+Result picture:
 ![alt text](https://github.com/LinsiLin/Image-Segmentation/blob/main/result.jpg)
 
 
