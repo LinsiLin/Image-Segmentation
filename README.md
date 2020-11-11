@@ -1,7 +1,7 @@
 # Image-Segmentation using Mean Shift Algorithm
 #### Image segmentation means labeling pixels according to the image intensity such that pixels with similar intensity have same label.
 
-Data:
+Data:<br>
 • 3 Color images
 – Baboon, Lena, Pepper<br>
 – A set of pixels with a 3D 8bit (0-255) RGB feature<br>
